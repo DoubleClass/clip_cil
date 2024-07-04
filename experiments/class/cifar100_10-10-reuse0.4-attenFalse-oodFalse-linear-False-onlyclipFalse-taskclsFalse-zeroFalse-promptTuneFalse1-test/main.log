@@ -1,0 +1,67 @@
+Train for task 0 has started.
+-    - curent task 0,  epoch 0 acc: 82.72 
+-    - curent task 0,  epoch 1 acc: 97.5 
+-    - curent task 0,  epoch 2 acc: 98.24000000000001 
+-    - curent task 0,  epoch 3 acc: 98.52 
+-    - curent task 0,  epoch 4 acc: 98.96000000000001 
+-    - curent task 0,  epoch 5 acc: 99.03999999999999 
+-    - curent task 0,  epoch 6 acc: 99.22 
+-    - curent task 0,  epoch 7 acc: 99.16 
+-    - curent task 0,  epoch 8 acc: 99.16 
+-    - curent task 0,  epoch 9 acc: 99.2 
+finished task: (0,) starting eval...
+test on seen classes: acc: 0.976
+Train for task 1 has started.
+-    - curent task 1,  epoch 0 acc: 88.23684210526316 
+the last epoch, starting changing cilp mapping
+finished task: (1,) starting eval...
+test on seen classes: acc: 0.872
+right: 0 shadow: 0,  long: 0
+Train for task 2 has started.
+-    - curent task 2,  epoch 0 acc: 74.10526315789474 
+the last epoch, starting changing cilp mapping
+finished task: (2,) starting eval...
+test on seen classes: acc: 0.791
+right: 0 shadow: 0,  long: 0
+Train for task 3 has started.
+-    - curent task 3,  epoch 0 acc: 65.28947368421053 
+the last epoch, starting changing cilp mapping
+finished task: (3,) starting eval...
+test on seen classes: acc: 0.761
+right: 0 shadow: 0,  long: 0
+Train for task 4 has started.
+-    - curent task 4,  epoch 0 acc: 66.30701754385964 
+the last epoch, starting changing cilp mapping
+finished task: (4,) starting eval...
+test on seen classes: acc: 0.7606
+right: 0 shadow: 0,  long: 0
+Train for task 5 has started.
+-    - curent task 5,  epoch 0 acc: 61.35087719298246 
+the last epoch, starting changing cilp mapping
+finished task: (5,) starting eval...
+test on seen classes: acc: 0.752
+right: 0 shadow: 0,  long: 0
+Train for task 6 has started.
+-    - curent task 6,  epoch 0 acc: 56.07894736842105 
+the last epoch, starting changing cilp mapping
+finished task: (6,) starting eval...
+test on seen classes: acc: 0.6901428571428572
+right: 0 shadow: 0,  long: 0
+Train for task 7 has started.
+-    - curent task 7,  epoch 0 acc: 56.15789473684211 
+the last epoch, starting changing cilp mapping
+finished task: (7,) starting eval...
+test on seen classes: acc: 0.68925
+right: 0 shadow: 0,  long: 0
+Train for task 8 has started.
+-    - curent task 8,  epoch 0 acc: 55.280701754385966 
+the last epoch, starting changing cilp mapping
+finished task: (8,) starting eval...
+test on seen classes: acc: 0.6691111111111111
+right: 0 shadow: 0,  long: 0
+Train for task 9 has started.
+-    - curent task 9,  epoch 0 acc: 53.49122807017543 
+the last epoch, starting changing cilp mapping
+finished task: (9,) starting eval...
+test on seen classes: acc: 0.6609
+right: 0 shadow: 0,  long: 0

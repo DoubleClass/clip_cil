@@ -1,0 +1,319 @@
+Train for task 0 has started.
+-    - curent task 0,  epoch 0 acc: 82.72 
+finished task: (0,) starting eval...
+test on seen classes: acc: 0.965
+Train for task 1 has started.
+-    - curent task 1,  epoch 0 acc: 87.16666666666667 
+-    - curent task 1,  epoch 1 acc: 95.27192982456141 
+-    - curent task 1,  epoch 2 acc: 95.86842105263158 
+-    - curent task 1,  epoch 3 acc: 96.16666666666667 
+-    - curent task 1,  epoch 4 acc: 96.69298245614036 
+-    - curent task 1,  epoch 5 acc: 96.80701754385966 
+-    - curent task 1,  epoch 6 acc: 97.35964912280701 
+-    - curent task 1,  epoch 7 acc: 97.55263157894737 
+-    - curent task 1,  epoch 8 acc: 97.58771929824562 
+-    - curent task 1,  epoch 9 acc: 97.85964912280701 
+-    - curent task 1,  epoch 10 acc: 98.16666666666667 
+-    - curent task 1,  epoch 11 acc: 98.26315789473684 
+-    - curent task 1,  epoch 12 acc: 98.54385964912281 
+-    - curent task 1,  epoch 13 acc: 98.64912280701755 
+-    - curent task 1,  epoch 14 acc: 98.75438596491229 
+-    - curent task 1,  epoch 15 acc: 99.06140350877193 
+-    - curent task 1,  epoch 16 acc: 98.82456140350877 
+-    - curent task 1,  epoch 17 acc: 99.13157894736842 
+-    - curent task 1,  epoch 18 acc: 99.1578947368421 
+-    - curent task 1,  epoch 19 acc: 99.20175438596492 
+-    - curent task 1,  epoch 20 acc: 99.26315789473684 
+-    - curent task 1,  epoch 21 acc: 99.2719298245614 
+-    - curent task 1,  epoch 22 acc: 99.29824561403508 
+-    - curent task 1,  epoch 23 acc: 99.36842105263159 
+-    - curent task 1,  epoch 24 acc: 99.28947368421052 
+-    - curent task 1,  epoch 25 acc: 99.48245614035088 
+-    - curent task 1,  epoch 26 acc: 99.42105263157895 
+-    - curent task 1,  epoch 27 acc: 99.45614035087719 
+-    - curent task 1,  epoch 28 acc: 99.33333333333333 
+-    - curent task 1,  epoch 29 acc: 99.44736842105263 
+the last epoch, starting changing cilp mapping
+finished task: (1,) starting eval...
+test on seen classes: acc: 0.916
+right: 0 shadow: 0,  long: 0
+Train for task 2 has started.
+-    - curent task 2,  epoch 0 acc: 77.40350877192984 
+-    - curent task 2,  epoch 1 acc: 88.93859649122807 
+-    - curent task 2,  epoch 2 acc: 90.06140350877193 
+-    - curent task 2,  epoch 3 acc: 89.44736842105263 
+-    - curent task 2,  epoch 4 acc: 91.04385964912281 
+-    - curent task 2,  epoch 5 acc: 91.96491228070175 
+-    - curent task 2,  epoch 6 acc: 92.94736842105263 
+-    - curent task 2,  epoch 7 acc: 92.21929824561403 
+-    - curent task 2,  epoch 8 acc: 91.62280701754386 
+-    - curent task 2,  epoch 9 acc: 92.73684210526316 
+-    - curent task 2,  epoch 10 acc: 93.69298245614036 
+-    - curent task 2,  epoch 11 acc: 94.21929824561404 
+-    - curent task 2,  epoch 12 acc: 93.94736842105263 
+-    - curent task 2,  epoch 13 acc: 94.27192982456141 
+-    - curent task 2,  epoch 14 acc: 94.74561403508773 
+-    - curent task 2,  epoch 15 acc: 95.28070175438597 
+-    - curent task 2,  epoch 16 acc: 95.42105263157895 
+-    - curent task 2,  epoch 17 acc: 95.45614035087719 
+-    - curent task 2,  epoch 18 acc: 95.55263157894737 
+-    - curent task 2,  epoch 19 acc: 95.85964912280703 
+-    - curent task 2,  epoch 20 acc: 95.85087719298245 
+-    - curent task 2,  epoch 21 acc: 96.0 
+-    - curent task 2,  epoch 22 acc: 96.08771929824562 
+-    - curent task 2,  epoch 23 acc: 96.3859649122807 
+-    - curent task 2,  epoch 24 acc: 96.19298245614036 
+-    - curent task 2,  epoch 25 acc: 96.32456140350877 
+-    - curent task 2,  epoch 26 acc: 96.32456140350877 
+-    - curent task 2,  epoch 27 acc: 96.35087719298245 
+-    - curent task 2,  epoch 28 acc: 96.45614035087719 
+-    - curent task 2,  epoch 29 acc: 96.40350877192982 
+the last epoch, starting changing cilp mapping
+finished task: (2,) starting eval...
+test on seen classes: acc: 0.8553333333333333
+right: 0 shadow: 0,  long: 0
+Train for task 3 has started.
+-    - curent task 3,  epoch 0 acc: 71.29824561403508 
+-    - curent task 3,  epoch 1 acc: 83.62280701754385 
+-    - curent task 3,  epoch 2 acc: 84.92105263157896 
+-    - curent task 3,  epoch 3 acc: 84.97368421052632 
+-    - curent task 3,  epoch 4 acc: 86.2719298245614 
+-    - curent task 3,  epoch 5 acc: 87.26315789473685 
+-    - curent task 3,  epoch 6 acc: 88.0 
+-    - curent task 3,  epoch 7 acc: 88.36842105263158 
+-    - curent task 3,  epoch 8 acc: 88.68421052631578 
+-    - curent task 3,  epoch 9 acc: 89.28070175438596 
+-    - curent task 3,  epoch 10 acc: 89.73684210526316 
+-    - curent task 3,  epoch 11 acc: 90.1842105263158 
+-    - curent task 3,  epoch 12 acc: 89.56140350877193 
+-    - curent task 3,  epoch 13 acc: 90.24561403508771 
+-    - curent task 3,  epoch 14 acc: 90.92105263157895 
+-    - curent task 3,  epoch 15 acc: 90.55263157894737 
+-    - curent task 3,  epoch 16 acc: 91.74561403508773 
+-    - curent task 3,  epoch 17 acc: 91.87719298245614 
+-    - curent task 3,  epoch 18 acc: 91.5701754385965 
+-    - curent task 3,  epoch 19 acc: 92.14912280701755 
+-    - curent task 3,  epoch 20 acc: 92.3859649122807 
+-    - curent task 3,  epoch 21 acc: 92.63157894736842 
+-    - curent task 3,  epoch 22 acc: 93.21929824561404 
+-    - curent task 3,  epoch 23 acc: 92.74561403508773 
+-    - curent task 3,  epoch 24 acc: 93.06140350877193 
+-    - curent task 3,  epoch 25 acc: 93.78070175438596 
+-    - curent task 3,  epoch 26 acc: 93.86842105263158 
+-    - curent task 3,  epoch 27 acc: 93.30701754385964 
+-    - curent task 3,  epoch 28 acc: 93.71929824561404 
+-    - curent task 3,  epoch 29 acc: 93.4122807017544 
+the last epoch, starting changing cilp mapping
+finished task: (3,) starting eval...
+test on seen classes: acc: 0.844
+right: 0 shadow: 0,  long: 0
+Train for task 4 has started.
+-    - curent task 4,  epoch 0 acc: 72.08771929824562 
+-    - curent task 4,  epoch 1 acc: 85.08771929824562 
+-    - curent task 4,  epoch 2 acc: 85.7719298245614 
+-    - curent task 4,  epoch 3 acc: 86.20175438596492 
+-    - curent task 4,  epoch 4 acc: 86.85087719298245 
+-    - curent task 4,  epoch 5 acc: 87.1140350877193 
+-    - curent task 4,  epoch 6 acc: 87.98245614035088 
+-    - curent task 4,  epoch 7 acc: 89.31578947368422 
+-    - curent task 4,  epoch 8 acc: 89.6140350877193 
+-    - curent task 4,  epoch 9 acc: 89.73684210526316 
+-    - curent task 4,  epoch 10 acc: 89.98245614035088 
+-    - curent task 4,  epoch 11 acc: 90.25438596491227 
+-    - curent task 4,  epoch 12 acc: 90.78070175438596 
+-    - curent task 4,  epoch 13 acc: 90.75438596491227 
+-    - curent task 4,  epoch 14 acc: 91.49122807017544 
+-    - curent task 4,  epoch 15 acc: 91.56140350877193 
+-    - curent task 4,  epoch 16 acc: 92.21052631578948 
+-    - curent task 4,  epoch 17 acc: 91.90350877192982 
+-    - curent task 4,  epoch 18 acc: 92.3859649122807 
+-    - curent task 4,  epoch 19 acc: 92.56140350877193 
+-    - curent task 4,  epoch 20 acc: 93.0 
+-    - curent task 4,  epoch 21 acc: 93.03508771929825 
+-    - curent task 4,  epoch 22 acc: 93.14912280701755 
+-    - curent task 4,  epoch 23 acc: 93.22807017543859 
+-    - curent task 4,  epoch 24 acc: 93.47368421052632 
+-    - curent task 4,  epoch 25 acc: 93.60526315789474 
+-    - curent task 4,  epoch 26 acc: 93.69298245614036 
+-    - curent task 4,  epoch 27 acc: 93.42105263157895 
+-    - curent task 4,  epoch 28 acc: 93.59649122807018 
+-    - curent task 4,  epoch 29 acc: 93.52631578947368 
+the last epoch, starting changing cilp mapping
+finished task: (4,) starting eval...
+test on seen classes: acc: 0.8486
+right: 0 shadow: 0,  long: 0
+Train for task 5 has started.
+-    - curent task 5,  epoch 0 acc: 73.28070175438597 
+-    - curent task 5,  epoch 1 acc: 84.24561403508773 
+-    - curent task 5,  epoch 2 acc: 84.60526315789474 
+-    - curent task 5,  epoch 3 acc: 85.84210526315789 
+-    - curent task 5,  epoch 4 acc: 88.12280701754386 
+-    - curent task 5,  epoch 5 acc: 87.93859649122807 
+-    - curent task 5,  epoch 6 acc: 86.83333333333333 
+-    - curent task 5,  epoch 7 acc: 88.35087719298245 
+-    - curent task 5,  epoch 8 acc: 88.42105263157895 
+-    - curent task 5,  epoch 9 acc: 89.98245614035088 
+-    - curent task 5,  epoch 10 acc: 89.36842105263158 
+-    - curent task 5,  epoch 11 acc: 89.85087719298247 
+-    - curent task 5,  epoch 12 acc: 91.04385964912281 
+-    - curent task 5,  epoch 13 acc: 92.40350877192982 
+-    - curent task 5,  epoch 14 acc: 92.12280701754386 
+-    - curent task 5,  epoch 15 acc: 91.78947368421052 
+-    - curent task 5,  epoch 16 acc: 92.44736842105263 
+-    - curent task 5,  epoch 17 acc: 92.56140350877193 
+-    - curent task 5,  epoch 18 acc: 92.53508771929825 
+-    - curent task 5,  epoch 19 acc: 93.2017543859649 
+-    - curent task 5,  epoch 20 acc: 92.94736842105263 
+-    - curent task 5,  epoch 21 acc: 93.93859649122807 
+-    - curent task 5,  epoch 22 acc: 92.96491228070175 
+-    - curent task 5,  epoch 23 acc: 93.5 
+-    - curent task 5,  epoch 24 acc: 93.28947368421052 
+-    - curent task 5,  epoch 25 acc: 93.62280701754386 
+-    - curent task 5,  epoch 26 acc: 93.7982456140351 
+-    - curent task 5,  epoch 27 acc: 93.78947368421052 
+-    - curent task 5,  epoch 28 acc: 94.2017543859649 
+-    - curent task 5,  epoch 29 acc: 94.3157894736842 
+the last epoch, starting changing cilp mapping
+finished task: (5,) starting eval...
+test on seen classes: acc: 0.8495
+right: 0 shadow: 0,  long: 0
+Train for task 6 has started.
+-    - curent task 6,  epoch 0 acc: 67.86842105263158 
+-    - curent task 6,  epoch 1 acc: 79.92105263157895 
+-    - curent task 6,  epoch 2 acc: 79.80701754385964 
+-    - curent task 6,  epoch 3 acc: 81.74561403508773 
+-    - curent task 6,  epoch 4 acc: 81.87719298245614 
+-    - curent task 6,  epoch 5 acc: 82.42105263157895 
+-    - curent task 6,  epoch 6 acc: 83.67543859649122 
+-    - curent task 6,  epoch 7 acc: 83.78947368421052 
+-    - curent task 6,  epoch 8 acc: 87.04385964912281 
+-    - curent task 6,  epoch 9 acc: 85.49122807017544 
+-    - curent task 6,  epoch 10 acc: 86.2719298245614 
+-    - curent task 6,  epoch 11 acc: 86.67543859649123 
+-    - curent task 6,  epoch 12 acc: 87.47368421052632 
+-    - curent task 6,  epoch 13 acc: 87.23684210526315 
+-    - curent task 6,  epoch 14 acc: 87.90350877192982 
+-    - curent task 6,  epoch 15 acc: 87.85087719298245 
+-    - curent task 6,  epoch 16 acc: 88.28070175438596 
+-    - curent task 6,  epoch 17 acc: 88.00877192982456 
+-    - curent task 6,  epoch 18 acc: 89.28070175438596 
+-    - curent task 6,  epoch 19 acc: 89.4298245614035 
+-    - curent task 6,  epoch 20 acc: 89.67543859649123 
+-    - curent task 6,  epoch 21 acc: 90.49122807017544 
+-    - curent task 6,  epoch 22 acc: 90.30701754385964 
+-    - curent task 6,  epoch 23 acc: 90.21052631578948 
+-    - curent task 6,  epoch 24 acc: 90.63157894736842 
+-    - curent task 6,  epoch 25 acc: 90.34210526315789 
+-    - curent task 6,  epoch 26 acc: 90.64035087719299 
+-    - curent task 6,  epoch 27 acc: 90.65789473684211 
+-    - curent task 6,  epoch 28 acc: 91.3157894736842 
+-    - curent task 6,  epoch 29 acc: 90.92105263157895 
+the last epoch, starting changing cilp mapping
+finished task: (6,) starting eval...
+test on seen classes: acc: 0.8222857142857143
+right: 0 shadow: 0,  long: 0
+Train for task 7 has started.
+-    - curent task 7,  epoch 0 acc: 70.21929824561404 
+-    - curent task 7,  epoch 1 acc: 79.7982456140351 
+-    - curent task 7,  epoch 2 acc: 81.94736842105263 
+-    - curent task 7,  epoch 3 acc: 81.99122807017544 
+-    - curent task 7,  epoch 4 acc: 81.84210526315789 
+-    - curent task 7,  epoch 5 acc: 83.82456140350877 
+-    - curent task 7,  epoch 6 acc: 84.78947368421052 
+-    - curent task 7,  epoch 7 acc: 84.90350877192982 
+-    - curent task 7,  epoch 8 acc: 85.28947368421052 
+-    - curent task 7,  epoch 9 acc: 86.49122807017544 
+-    - curent task 7,  epoch 10 acc: 86.14035087719299 
+-    - curent task 7,  epoch 11 acc: 86.36842105263159 
+-    - curent task 7,  epoch 12 acc: 88.05263157894737 
+-    - curent task 7,  epoch 13 acc: 88.3421052631579 
+-    - curent task 7,  epoch 14 acc: 88.3421052631579 
+-    - curent task 7,  epoch 15 acc: 88.26315789473685 
+-    - curent task 7,  epoch 16 acc: 89.12280701754386 
+-    - curent task 7,  epoch 17 acc: 90.13157894736842 
+-    - curent task 7,  epoch 18 acc: 89.79824561403508 
+-    - curent task 7,  epoch 19 acc: 90.62280701754386 
+-    - curent task 7,  epoch 20 acc: 90.69298245614034 
+-    - curent task 7,  epoch 21 acc: 91.03508771929825 
+-    - curent task 7,  epoch 22 acc: 91.3859649122807 
+-    - curent task 7,  epoch 23 acc: 90.71929824561403 
+-    - curent task 7,  epoch 24 acc: 91.13157894736842 
+-    - curent task 7,  epoch 25 acc: 91.3157894736842 
+-    - curent task 7,  epoch 26 acc: 91.78947368421052 
+-    - curent task 7,  epoch 27 acc: 91.75438596491227 
+-    - curent task 7,  epoch 28 acc: 91.3859649122807 
+-    - curent task 7,  epoch 29 acc: 91.6842105263158 
+the last epoch, starting changing cilp mapping
+finished task: (7,) starting eval...
+test on seen classes: acc: 0.82225
+right: 0 shadow: 0,  long: 0
+Train for task 8 has started.
+-    - curent task 8,  epoch 0 acc: 70.73684210526315 
+-    - curent task 8,  epoch 1 acc: 78.03508771929825 
+-    - curent task 8,  epoch 2 acc: 80.0 
+-    - curent task 8,  epoch 3 acc: 81.91228070175438 
+-    - curent task 8,  epoch 4 acc: 82.78070175438597 
+-    - curent task 8,  epoch 5 acc: 83.69298245614036 
+-    - curent task 8,  epoch 6 acc: 83.73684210526315 
+-    - curent task 8,  epoch 7 acc: 84.5701754385965 
+-    - curent task 8,  epoch 8 acc: 85.15789473684211 
+-    - curent task 8,  epoch 9 acc: 85.08771929824562 
+-    - curent task 8,  epoch 10 acc: 84.21929824561404 
+-    - curent task 8,  epoch 11 acc: 86.87719298245614 
+-    - curent task 8,  epoch 12 acc: 86.86842105263159 
+-    - curent task 8,  epoch 13 acc: 87.24561403508771 
+-    - curent task 8,  epoch 14 acc: 87.69298245614036 
+-    - curent task 8,  epoch 15 acc: 88.29824561403508 
+-    - curent task 8,  epoch 16 acc: 88.95614035087719 
+-    - curent task 8,  epoch 17 acc: 88.71929824561403 
+-    - curent task 8,  epoch 18 acc: 88.58771929824562 
+-    - curent task 8,  epoch 19 acc: 89.21929824561403 
+-    - curent task 8,  epoch 20 acc: 89.80701754385964 
+-    - curent task 8,  epoch 21 acc: 89.7719298245614 
+-    - curent task 8,  epoch 22 acc: 89.84210526315789 
+-    - curent task 8,  epoch 23 acc: 90.04385964912281 
+-    - curent task 8,  epoch 24 acc: 90.53508771929825 
+-    - curent task 8,  epoch 25 acc: 90.49122807017544 
+-    - curent task 8,  epoch 26 acc: 90.93859649122807 
+-    - curent task 8,  epoch 27 acc: 90.75438596491227 
+-    - curent task 8,  epoch 28 acc: 90.86842105263158 
+-    - curent task 8,  epoch 29 acc: 91.26315789473685 
+the last epoch, starting changing cilp mapping
+finished task: (8,) starting eval...
+test on seen classes: acc: 0.8145555555555556
+right: 0 shadow: 0,  long: 0
+Train for task 9 has started.
+-    - curent task 9,  epoch 0 acc: 68.99122807017544 
+-    - curent task 9,  epoch 1 acc: 74.08771929824562 
+-    - curent task 9,  epoch 2 acc: 81.03508771929825 
+-    - curent task 9,  epoch 3 acc: 80.12280701754386 
+-    - curent task 9,  epoch 4 acc: 81.05263157894737 
+-    - curent task 9,  epoch 5 acc: 81.39473684210526 
+-    - curent task 9,  epoch 6 acc: 81.73684210526316 
+-    - curent task 9,  epoch 7 acc: 80.95614035087719 
+-    - curent task 9,  epoch 8 acc: 80.8157894736842 
+-    - curent task 9,  epoch 9 acc: 82.7017543859649 
+-    - curent task 9,  epoch 10 acc: 85.04385964912281 
+-    - curent task 9,  epoch 11 acc: 84.40350877192982 
+-    - curent task 9,  epoch 12 acc: 85.03508771929825 
+-    - curent task 9,  epoch 13 acc: 86.00877192982456 
+-    - curent task 9,  epoch 14 acc: 85.3859649122807 
+-    - curent task 9,  epoch 15 acc: 87.31578947368422 
+-    - curent task 9,  epoch 16 acc: 85.8859649122807 
+-    - curent task 9,  epoch 17 acc: 86.45614035087719 
+-    - curent task 9,  epoch 18 acc: 87.28070175438597 
+-    - curent task 9,  epoch 19 acc: 87.76315789473685 
+-    - curent task 9,  epoch 20 acc: 87.76315789473685 
+-    - curent task 9,  epoch 21 acc: 87.90350877192982 
+-    - curent task 9,  epoch 22 acc: 88.26315789473685 
+-    - curent task 9,  epoch 23 acc: 88.67543859649123 
+-    - curent task 9,  epoch 24 acc: 88.6140350877193 
+-    - curent task 9,  epoch 25 acc: 89.24561403508771 
+-    - curent task 9,  epoch 26 acc: 89.52631578947368 
+-    - curent task 9,  epoch 27 acc: 89.5 
+-    - curent task 9,  epoch 28 acc: 89.9298245614035 
+-    - curent task 9,  epoch 29 acc: 90.0 
+the last epoch, starting changing cilp mapping
+finished task: (9,) starting eval...
+test on seen classes: acc: 0.8033
+right: 0 shadow: 0,  long: 0

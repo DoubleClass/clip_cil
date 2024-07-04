@@ -1,0 +1,67 @@
+2024-07-03 11:27:20 - r- INFO: - Train for task 0 has started.
+2024-07-03 11:27:30 - r- INFO: - -    - curent task 0,  epoch 0 acc: 82.72 
+2024-07-03 11:27:38 - r- INFO: - -    - curent task 0,  epoch 1 acc: 97.5 
+2024-07-03 11:27:47 - r- INFO: - -    - curent task 0,  epoch 2 acc: 98.24000000000001 
+2024-07-03 11:27:56 - r- INFO: - -    - curent task 0,  epoch 3 acc: 98.52 
+2024-07-03 11:28:04 - r- INFO: - -    - curent task 0,  epoch 4 acc: 98.96000000000001 
+2024-07-03 11:28:13 - r- INFO: - -    - curent task 0,  epoch 5 acc: 99.03999999999999 
+2024-07-03 11:28:21 - r- INFO: - -    - curent task 0,  epoch 6 acc: 99.22 
+2024-07-03 11:28:30 - r- INFO: - -    - curent task 0,  epoch 7 acc: 99.16 
+2024-07-03 11:28:39 - r- INFO: - -    - curent task 0,  epoch 8 acc: 99.16 
+2024-07-03 11:28:47 - r- INFO: - -    - curent task 0,  epoch 9 acc: 99.2 
+2024-07-03 11:28:47 - r- INFO: - finished task: (0,) starting eval...
+2024-07-03 11:29:02 - r- INFO: - test on seen classes: acc: 0.976
+2024-07-03 11:29:02 - r- INFO: - Train for task 1 has started.
+2024-07-03 11:29:11 - r- INFO: - -    - curent task 1,  epoch 0 acc: 88.23684210526316 
+2024-07-03 11:29:11 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:29:11 - r- INFO: - finished task: (1,) starting eval...
+2024-07-03 11:29:29 - r- INFO: - test on seen classes: acc: 0.872
+2024-07-03 11:29:29 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:29:29 - r- INFO: - Train for task 2 has started.
+2024-07-03 11:29:38 - r- INFO: - -    - curent task 2,  epoch 0 acc: 74.10526315789474 
+2024-07-03 11:29:38 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:29:38 - r- INFO: - finished task: (2,) starting eval...
+2024-07-03 11:30:00 - r- INFO: - test on seen classes: acc: 0.791
+2024-07-03 11:30:00 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:30:00 - r- INFO: - Train for task 3 has started.
+2024-07-03 11:30:09 - r- INFO: - -    - curent task 3,  epoch 0 acc: 65.28947368421053 
+2024-07-03 11:30:09 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:30:09 - r- INFO: - finished task: (3,) starting eval...
+2024-07-03 11:30:34 - r- INFO: - test on seen classes: acc: 0.761
+2024-07-03 11:30:34 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:30:34 - r- INFO: - Train for task 4 has started.
+2024-07-03 11:30:43 - r- INFO: - -    - curent task 4,  epoch 0 acc: 66.30701754385964 
+2024-07-03 11:30:43 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:30:44 - r- INFO: - finished task: (4,) starting eval...
+2024-07-03 11:31:18 - r- INFO: - test on seen classes: acc: 0.7606
+2024-07-03 11:31:18 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:31:18 - r- INFO: - Train for task 5 has started.
+2024-07-03 11:31:27 - r- INFO: - -    - curent task 5,  epoch 0 acc: 61.35087719298246 
+2024-07-03 11:31:27 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:31:27 - r- INFO: - finished task: (5,) starting eval...
+2024-07-03 11:32:05 - r- INFO: - test on seen classes: acc: 0.752
+2024-07-03 11:32:05 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:32:05 - r- INFO: - Train for task 6 has started.
+2024-07-03 11:32:14 - r- INFO: - -    - curent task 6,  epoch 0 acc: 56.07894736842105 
+2024-07-03 11:32:14 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:32:14 - r- INFO: - finished task: (6,) starting eval...
+2024-07-03 11:32:57 - r- INFO: - test on seen classes: acc: 0.6901428571428572
+2024-07-03 11:32:57 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:32:57 - r- INFO: - Train for task 7 has started.
+2024-07-03 11:33:06 - r- INFO: - -    - curent task 7,  epoch 0 acc: 56.15789473684211 
+2024-07-03 11:33:06 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:33:06 - r- INFO: - finished task: (7,) starting eval...
+2024-07-03 11:33:51 - r- INFO: - test on seen classes: acc: 0.68925
+2024-07-03 11:33:51 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:33:51 - r- INFO: - Train for task 8 has started.
+2024-07-03 11:34:00 - r- INFO: - -    - curent task 8,  epoch 0 acc: 55.280701754385966 
+2024-07-03 11:34:00 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:34:00 - r- INFO: - finished task: (8,) starting eval...
+2024-07-03 11:34:48 - r- INFO: - test on seen classes: acc: 0.6691111111111111
+2024-07-03 11:34:48 - r- INFO: - right: 0 shadow: 0,  long: 0
+2024-07-03 11:34:48 - r- INFO: - Train for task 9 has started.
+2024-07-03 11:34:57 - r- INFO: - -    - curent task 9,  epoch 0 acc: 53.49122807017543 
+2024-07-03 11:34:57 - r- INFO: - the last epoch, starting changing cilp mapping
+2024-07-03 11:34:57 - r- INFO: - finished task: (9,) starting eval...
+2024-07-03 11:35:48 - r- INFO: - test on seen classes: acc: 0.6609
+2024-07-03 11:35:48 - r- INFO: - right: 0 shadow: 0,  long: 0

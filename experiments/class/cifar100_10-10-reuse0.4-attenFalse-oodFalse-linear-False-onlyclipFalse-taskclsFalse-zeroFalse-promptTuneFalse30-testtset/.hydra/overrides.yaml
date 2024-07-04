@@ -1,0 +1,11 @@
+- dataset_root=../datasets/
+- class_order=class_order/cifar100.yaml
+- log_path=test.json
+- initial_increment=10
+- increment=10
+- reuse=0.4
+- ood=False
+- linear_probe=False
+- EPOCH=30
+- seed=32
+- custom=testtset

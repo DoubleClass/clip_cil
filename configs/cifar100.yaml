@@ -1,0 +1,113 @@
+hydra:
+  run:
+    dir: ./experiments/${scenario}/${dataset}_${initial_increment}-${increment}-reuse${reuse}-atten${has_attention}-ood${ood}-linear-${linear_probe}-onlyclip${only_clip}-taskcls${task_cls}-zero${zero}-promptTune${prompt_tun}${EPOCH}-${custom}
+  job:
+    chdir: true
+
+  job_logging:
+    version: 1
+    formatters:
+      simple:
+        format: '%(message)s'
+
+class_order: ""
+dataset_root: ""
+workdir: ""
+log_path: "metrics.json"
+ay_path: "analysis.txt"
+model_name: "ViT-B/16"
+prompt_template: "a good photo of a {}."
+
+batch_size: 128
+
+scenario: "class"
+dataset: "cifar100"
+# new from cxs
+N_CTX: 1
+CTX_INIT: ''
+INPUT_SIZE: 224
+TRAINER_COOP_CSC: False
+TRAINER_COOP_CLASS_TOKEN_POSITION: 'end'
+initial_increment: 50
+increment: 25
+INIT_CLASS_NUM: 50
+EPOCH: 10
+reuse: 0
+cleanup: 0
+has_attention: False
+
+linear_probe: False
+seed: 2
+zero: False
+prompt_tun: False
+custom: 'final'
+lr: 0.1
+joint: False
+only_clip: False
+only_cls: False 
+task_cls: False
+logits_cls: False
+ood: False
+random_reuse: True
+has_another: False
+few_shot: False
+
+task_inc: False
+
+examplar_batch: 128
+examplar_free: True
+num_workers: 16
+beta: 8
+shrinkage: False
+skip_0: False
+total_class: 100
+model_name2: "ViT-B/16"
+fc2: False
+# eigen: 0
+# res: True
+# has_another: False
+# hydra:
+#   run:
+#     dir: ./experiments/${scenario}/${dataset}_${initial_increment}-${increment}--eigen${eigen}-resuse${reuse}-epoch${EPOCH}-day2.8-res_${res}-clean-test-cxs
+#   job:
+#     chdir: true
+
+#   job_logging:
+#     version: 1
+#     formatters:
+#       simple:
+#         format: '%(message)s'
+
+# class_order: ""
+# dataset_root: ""
+# workdir: ""
+# log_path: "metrics.json"
+# model_name: "ViT-B/16"
+# prompt_template: "a good photo of a {}."
+
+# batch_size: 128
+
+# scenario: "class"
+# dataset: "cifar100"
+# # new from cxs
+# N_CTX: 1
+# CTX_INIT: ''
+# INPUT_SIZE: 224
+# TRAINER_COOP_CSC: False
+# TRAINER_COOP_CLASS_TOKEN_POSITION: 'end'
+# initial_increment: 50
+# increment: 25
+# INIT_CLASS_NUM: 50
+# EPOCH: 10
+# eigen: 0
+# reuse: 0.2
+# cleanup: 0
+# res: True
+# has_attention: False
+# has_another: False
+# lr: 0.1
+# linear_probe: True
+# zero: False
+# prompt_tun: False
+# joint: False
+# custom: 'test'
